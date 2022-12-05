@@ -10,9 +10,8 @@ const RenderPage = () => (
       <h2>Welcome!</h2>
       <p>おかずが、知識をアウトプットするためのウェブサイトです。</p>
       <p>
-        easy-notion-blog powered by{' '}
-        <ExtLink href="https://github.com/otoyo/easy-notion-blog">
-          otoyo/easy-notion-blog
+        <ExtLink href="https://twitter.com/vivala_ki">
+          Twitter
         </ExtLink>
       </p>
     </div>
