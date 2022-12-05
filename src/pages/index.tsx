@@ -14,6 +14,11 @@ const RenderPage = () => (
           Twitter
         </ExtLink>
       </p>
+      <p>
+        <ExtLink href="https://www.instagram.com/vivalaki_o">
+          Instagram
+        </ExtLink>
+      </p>
     </div>
   </div>
 )
