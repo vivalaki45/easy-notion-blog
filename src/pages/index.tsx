@@ -7,7 +7,7 @@ const RenderPage = () => (
     <DocumentHead />
 
     <div>
-      <h2>Welcome!</h2>
+      <p>Welcome!</p>
       <p>おかずが、知識をアウトプットするためのウェブサイトです。</p>
       <p></p>
       <h3>▼SNS</h3>
