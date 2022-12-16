@@ -9,7 +9,6 @@ const RenderPage = () => (
     <div>
       <p>Welcome!</p>
       <p>おかずが、知識をアウトプットするためのウェブサイトです。</p>
-      <p></p>
       <h3>▼SNS</h3>
       <p>
         <ExtLink href="https://twitter.com/vivala_ki">
